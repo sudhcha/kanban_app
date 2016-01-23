@@ -3,8 +3,8 @@ A Kanban App as part of learning webpack and React. Following the instructions f
 
 # Setup
 Prerequisite:
-node.js and npm installed
-A good editor - my preference Atom with Nuclide
+- node.js and npm installed
+- A good editor: my preference Atom with Nuclide
 
 After cloning, you can run the following commands to get started:
 - `npm install`
