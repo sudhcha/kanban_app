@@ -1,3 +1,3 @@
 import React from 'react';
 
-export default () => <div>Developing a kanban app</div>;
+export default ({task}) => <div>{task}</div>;
