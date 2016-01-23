@@ -10,4 +10,7 @@ After cloning, you can run the following commands to get started:
 - `npm install`
 - `npm start`
 
+`npm install
+ npm start`
+ 
  After this, you can check out the app from your browser - http://localhost:8080/
